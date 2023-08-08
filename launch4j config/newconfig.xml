@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Inuri\Documents\NetBeansProjects\Air_Ticket_Reservation_System\dist\Air_Ticket_Reservation_System.jar</jar>
+  <outfile>C:\Users\Inuri\Documents\NetBeansProjects\Air_Ticket_Reservation_System\dist\Airline Ticket Reservation System.exe</outfile>
+  <errTitle>My progrram needs java.Please install java first</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Inuri\Documents\NetBeansProjects\Air_Ticket_Reservation_System\src\resources\df2a85b1d8d767ef4fc030ecdd0e3c6d~1.ico</icon>
+  <singleInstance>
+    <mutexName>AirlineTicketReservation</mutexName>
+    <windowTitle>Airline Ticket Reservation</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Airline Ticket Reservation System</fileDescription>
+    <copyright>NIL</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>AirlineTicketReservation</productName>
+    <companyName>ATRS</companyName>
+    <internalName>AirlineTicketReservation</internalName>
+    <originalFilename>AirlineTicketReservation.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
